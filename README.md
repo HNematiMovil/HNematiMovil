@@ -3,7 +3,7 @@
 - 👀 also I’m interested in microcontrollers (AVR , ARM , .. )
 - 🌱 I’m currently learning Altium Designer , ARM Programming using keil and stm32cubemx 
 - 📫 How to reach me 
-- telegram account : [DeveloperHN](t.me/DeveloperHN) 
+- telegram account : [DeveloperHN](https://t.me/DeveloperHN) 
 - 
 
 
